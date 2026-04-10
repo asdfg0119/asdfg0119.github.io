@@ -16,10 +16,11 @@ timezone: Asia/Seoul
 
 title: asdfg0119 # the main title
 
-tagline: . # it will display as the subtitle
+tagline: NLP, LLM, Agents, and Infrastructure. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  NLP, LLM, AI Agent, Data Structure, and DevOps를 주제로 
+  연구 내용과 기술 튜토리얼을 공유하는 공간입니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
