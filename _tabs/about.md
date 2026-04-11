@@ -3,6 +3,7 @@ layout: page
 title: About
 icon: fas fa-info-circle
 order: 1
+published: false
 ---
 
 기술의 깊이를 탐구하고 실전적인 구현을 지향합니다. 
