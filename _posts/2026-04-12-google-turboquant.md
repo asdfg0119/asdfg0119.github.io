@@ -2,7 +2,7 @@
 layout: post
 title: "TurboQuant: LLM의 '메모리 벽'을 허무는 3비트의 마법"
 date: 2026-04-12 13:00:00 +0900
-categories: [LLM & Agent, NLP Research]
+categories: [LLM, Quant]
 tags: [TurboQuant, KV-Cache, Quantization, Google-Research, ICLR-2026]
 math: true
 ---
