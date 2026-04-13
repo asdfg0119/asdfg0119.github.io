@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Google TurboQuant: KV 캐시 3비트 압축으로 구현하는 극한의 LLM 효율성"
 date: 2026-04-12 13:00:00 +0900
 categories: [LLM & Agent, NLP Research]
