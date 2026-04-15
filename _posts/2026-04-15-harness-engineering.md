@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Harness Engineering: AI 에이전트를 길들이는 새로운 엔지니어링 패러다임"
-date: 2026-04-15 10:00:00 +0900
+date: 2026-04-15 11:00:00 +0900
 categories:
   - AI
   - AgentEngineering
