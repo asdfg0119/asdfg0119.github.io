@@ -75,9 +75,7 @@ analytics:
     id: # fill in your Fathom Site ID
   busuanzi:
     enabled: true
-  type: 'goatcounter'
-  goatcounter:
-    id: 'G-CFVRJ0YNVZ'
+  type: 'google'
 
 # Page views settings
 pageviews:
