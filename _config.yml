@@ -1,15 +1,17 @@
-# The Site Configuration
+# ==========================================
+# Site Configuration
+# ==========================================
 theme: jekyll-theme-chirpy
 lang: ko-KR
 timezone: Asia/Seoul
 
-# --------------------------
-# 제목 및 사이드바 설정 (특수문자 충돌 방지를 위해 따옴표 사용)
 title: "asdfg0119"
-tagline: "Deep dive into LLM, NLP, CS, and DevOps.<br><img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://asdfg0119.github.io' alt='Hits'>"
 
-# '&' 기호는 YAML에서 예약어이므로 반드시 따옴표로 감싸야 합니다.
-description: "LLM & Agent, NLP Research, Computer Science, Infra & DevOps를 주제로 기술적 통찰과 구현 가이드를 기록하는 공간입니다."
+# 1. 특수 공백을 완전히 제거하고, 배지 주소를 인코딩된 형태로 교체했습니다.
+# 2. <br> 태그와 alt 속성을 정확히 배치했습니다.
+tagline: "Deep dive into LLM, NLP, CS, and DevOps.<br><a href='https://hits.seeyoufarm.com'><img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fasdfg0119.github.io&count_bg=%2322AD5C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false' alt='Hits'></a>"
+
+description: "LLM & Agent, NLP Research, Computer Science, Infra & DevOps를 주제로 기록하는 공간입니다."
 
 url: "https://asdfg0119.github.io"
 
@@ -31,11 +33,13 @@ analytics:
     enabled: true
   type: 'google'
 
+# 현재 비어있는 프로필 사진을 채워넣어 레이아웃을 완성합니다.
 avatar: "https://github.com/asdfg0119.png"
+
 paginate: 10
 baseurl: ""
 
-# 이 아래는 테마 기본 설정 (건드리지 마세요)
+# 이 아래는 건드리지 마세요 (기존 설정 유지)
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
