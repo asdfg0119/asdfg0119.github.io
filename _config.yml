@@ -9,7 +9,7 @@ title: "asdfg0119"
 
 # 1. 특수 공백을 완전히 제거하고, 배지 주소를 인코딩된 형태로 교체했습니다.
 # 2. <br> 태그와 alt 속성을 정확히 배치했습니다.
-tagline: "Deep dive into LLM, NLP, CS, and DevOps.<br><a href='https://hits.sh/asdfg0119.github.io/'><img src='https://hits.sh/asdfg0119.github.io.svg?style=flat-square&color=22ad5c&labelColor=555555&label=hits' alt='Hits'></a>"
+tagline: "Deep dive into LLM, NLP, CS, and DevOps.<br><a href='https://hitscounter.dev'><img src='https://hitscounter.dev/api/hit?url=https%3A%2F%2Fasdfg0119.github.io%2F&label=hits&icon=github&color=%2322AD5C' alt='Hits'></a>"
 
 description: "LLM & Agent, NLP Research, Computer Science, Infra & DevOps를 주제로 기록하는 공간입니다."
 
