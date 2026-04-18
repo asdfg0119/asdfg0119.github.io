@@ -6,7 +6,7 @@ timezone: Asia/Seoul
 # --------------------------
 # 제목 및 사이드바 설정 (특수문자 충돌 방지를 위해 따옴표 사용)
 title: "asdfg0119"
-tagline: "Deep dive into LLM, NLP, CS, and DevOps.<br><a href='https://hits.seeyoufarm.com'><img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fasdfg0119.github.io&count_bg=%2322AD5C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false' alt='Hits'></a>"
+tagline: "Deep dive into LLM, NLP, CS, and DevOps.<br><img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://asdfg0119.github.io' alt='Hits'>"
 
 # '&' 기호는 YAML에서 예약어이므로 반드시 따옴표로 감싸야 합니다.
 description: "LLM & Agent, NLP Research, Computer Science, Infra & DevOps를 주제로 기술적 통찰과 구현 가이드를 기록하는 공간입니다."
