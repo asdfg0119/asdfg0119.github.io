@@ -16,12 +16,7 @@ timezone: Asia/Seoul
 
 title: asdfg0119 # the main title
 
-tagline: |
-  Deep dive into LLM, NLP, CS, and DevOps.
-  <br>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fasdfg0119.github.io&count_bg=%2322AD5C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
+tagline: "Deep dive into LLM, NLP, CS, and DevOps.<br><a href='https://hits.seeyoufarm.com'><img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fasdfg0119.github.io&count_bg=%2322AD5C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false'/></a>"
 
 description: >-
   LLM & Agent, NLP Research, Computer Science, Infra & DevOps를 주제로
