@@ -78,3 +78,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+webmaster_verifications:
+  google: "googleaa40727c6cdd9633.html"
