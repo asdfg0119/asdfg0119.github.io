@@ -5,7 +5,7 @@ date: 2026-04-19 09:00:00 +0900
 categories:
   - DevOps
   - Deployment
-tags: [DevOps, CI/CD, Agile, Waterfall, DORA, 소프트웨어공학]
+tags: [DevOps, CI/CD, Agile, Waterfall, DORA]
 math: false
 ---
 
