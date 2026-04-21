@@ -81,3 +81,6 @@ jekyll-archives:
 
 webmaster_verifications:
   google: "googleaa40727c6cdd9633.html"
+
+plugins:
+  - jekyll-sitemap
