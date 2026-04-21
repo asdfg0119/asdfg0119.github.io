@@ -83,7 +83,7 @@ webmaster_verifications:
   google: "googleaa40727c6cdd9633.html"
 
 plugins:
-  - jekyll-sitemap  # 이 줄이 핵심입니다!
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
