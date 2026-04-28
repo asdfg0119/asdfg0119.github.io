@@ -5,7 +5,7 @@ date: 2026-04-20 18:00:00 +0900
 categories:
   - LLM
   - Fine-tuning
-tags: [LLM, FineTuning, Alpaca, ShareGPT, ChatML, DPO, SFT, Dataset]
+tags: [LLM, FineTune, Alpaca, ShareGPT, ChatML, DPO, SFT, Dataset]
 math: false
 ---
 
