@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Agent의 핵심: Function Calling, LangChain, LangGraph에서 LLM에게 전달되는 것과 LLM이 판단하는 것"
+title: "Function Calling, LangChain, LangGraph에서 LLM에게 전달되는 것과 LLM이 판단하는 것"
 date: 2026-04-28 12:00:00 +0900
 categories:
   - LLM
