@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asdfg0119.github.io/sitemap.xml
