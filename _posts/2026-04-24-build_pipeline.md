@@ -5,7 +5,7 @@ date: 2026-04-24 19:00:00 +0900
 categories:
   - DevOps
   - CI/CD
-tags: [BuildPipeline, CICD, GitLabCI, Jenkins, GitHubActions]
+tags: [BuildPipeline, CI/CD, GitLabCI, Jenkins, GitHubActions]
 math: false
 ---
 
