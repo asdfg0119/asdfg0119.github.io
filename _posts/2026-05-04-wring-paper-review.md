@@ -5,7 +5,7 @@ date: 2026-05-04 18:00:00 +0900
 categories:
   - AI
   - PaperReview
-tags: [WRING, Debiasing, VLM, CLIP, ICLR2026, MIT, FairAI, EmbeddingSpace, ProjectionDebiasing]
+tags: [WRING, Debiasing, VLM, CLIP, ICLR2026, EmbeddingSpace, ProjectionDebiasing]
 math: true
 ---
 
