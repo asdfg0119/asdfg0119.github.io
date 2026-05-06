@@ -3,8 +3,8 @@ layout: post
 title: "PaperReview - WRING: VLM 편향 제거의 새로운 방법론"
 date: 2026-05-04 18:00:00 +0900
 categories:
-  - AI
   - PaperReview
+  - WRING
 tags: [WRING, Debiasing, VLM, CLIP, ICLR2026, EmbeddingSpace, ProjectionDebiasing]
 math: true
 ---
